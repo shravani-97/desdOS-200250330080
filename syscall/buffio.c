@@ -6,7 +6,7 @@
 
 int main(int argc , char const *argv[])
 {
-    printf("Hello\n");
+    printf("Hello %d\n",3);
     printf("world\n");
     return 0;
 }
